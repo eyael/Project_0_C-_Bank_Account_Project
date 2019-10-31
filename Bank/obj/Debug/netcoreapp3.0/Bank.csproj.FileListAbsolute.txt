@@ -1,0 +1,11 @@
+C:\Users\wonge\source\repos\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.exe
+C:\Users\wonge\source\repos\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.deps.json
+C:\Users\wonge\source\repos\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.runtimeconfig.json
+C:\Users\wonge\source\repos\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.runtimeconfig.dev.json
+C:\Users\wonge\source\repos\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.dll
+C:\Users\wonge\source\repos\Bank\Bank\bin\Debug\netcoreapp3.0\Bank.pdb
+C:\Users\wonge\source\repos\Bank\Bank\obj\Debug\netcoreapp3.0\Bank.AssemblyInfoInputs.cache
+C:\Users\wonge\source\repos\Bank\Bank\obj\Debug\netcoreapp3.0\Bank.AssemblyInfo.cs
+C:\Users\wonge\source\repos\Bank\Bank\obj\Debug\netcoreapp3.0\Bank.dll
+C:\Users\wonge\source\repos\Bank\Bank\obj\Debug\netcoreapp3.0\Bank.pdb
+C:\Users\wonge\source\repos\Bank\Bank\obj\Debug\netcoreapp3.0\Bank.csprojAssemblyReference.cache
